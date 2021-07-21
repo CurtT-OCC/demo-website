@@ -1,3 +1,3 @@
 # My Website
 
-This is a my website!
+This is my website!
